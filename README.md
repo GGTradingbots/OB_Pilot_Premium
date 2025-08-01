@@ -12,13 +12,14 @@ Institutional Smart Money Concepts (SMC) Automatic Trading Bot
  🚀 Quick Start
 
 1. Add EA to MT5
-   - Download the `OB_Pilot_Premium_v3_1.ex5` file from the link above.
+   - Download the `OB_Pilot_Premium_v3_3.ex5 and othe.ex5` file from the link above.
    - In MT5, open `File ➔ Open Data Folder ➔ MQL5 ➔ Experts` and place the file in that folder.
    - Restart MetaTrader 5.
 
 2. Activate Your EA
    - Drag `OB_Pilot_Premium_v3_1` onto any chart.
    - In the input window, leave “UserMagicKey” empty. Manually enter the unique 5-digit Magic Key you received from the developer.
+   
 
 3. Trading Settings
    - Set your trade risk, group activation (A/B/C), session filters, and other options as desired.
