@@ -1,4 +1,4 @@
- OB-Pilot Premium v3.1 (MetaTrader 5 EA)
+ OB-Pilot Premium (MetaTrader 5 EA)
 Institutional Smart Money Concepts (SMC) Automatic Trading Bot
 
 ---
@@ -17,7 +17,7 @@ Institutional Smart Money Concepts (SMC) Automatic Trading Bot
    - Restart MetaTrader 5.
 
 2. Activate Your EA
-   - Drag `OB_Pilot_Premium_v3_1` onto any chart.
+   - Drag `OB Pilot Premium` onto any chart.
    - In the input window, leave “UserMagicKey” empty. Manually enter the unique 5-digit Magic Key you received from the developer.
    
 
