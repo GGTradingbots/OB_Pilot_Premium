@@ -3,7 +3,7 @@ Institutional Smart Money Concepts (SMC) Automatic Trading Bot
 
 ---
 
- ⬇️ [Download the Latest EA File (.ex5)](https://github.com/yourusername/ob-pilot-ea/releases/latest)
+ ⬇️ [Download the Latest EA File (.ex5)]
 
 > Please read all setup instructions below before running the EA on MetaTrader 5.
 
@@ -49,7 +49,7 @@ You must have a valid Magic Key to use this EA.
  💬 Support
 
 - For technical help, Magic Key issues or advanced configuration, visit  
-  [Contact Support & FAQ](https://)
+  [Contact Support & FAQ](https://t.me/+sgWO62hNrIY3Y2E1)
 
 ---
 
