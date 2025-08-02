@@ -9,7 +9,7 @@ Institutional Smart Money Concepts (SMC) Automatic Trading Bot
 
 ---
 
- 🚀 [Quick Start] (https://ugc.production.linktr.ee/6aeca685-e619-40c4-9553-f8f36093a8ed_OB-Pilot-Premium-Installation-Guide.pdf)
+ 🚀 [Quick Start](https://ugc.production.linktr.ee/6aeca685-e619-40c4-9553-f8f36093a8ed_OB-Pilot-Premium-Installation-Guide.pdf)
 
 1. Add EA to MT5
    - Download the `OB_Pilot_Premium_v3_3.ex5 and othe.ex5` file from the link above.
